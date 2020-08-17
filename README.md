@@ -1,4 +1,4 @@
-# learnPHP
+# Understand PHP and implement it make basic user management system
 User Management system using php, html, css
 Developed a web project that has 3 layers: Database, Backend/API and FrontEnd. 
 Frontend has two parts, one for Admin and one for External users. 
